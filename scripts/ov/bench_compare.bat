@@ -1,6 +1,6 @@
 @echo off
 call "D:\dev\openvino_toolkit_windows_2026.1.1.21373.3687ccc8dab_x86_64\setupvars.bat"
-cd /d D:\dev\llama.cpp\build\ReleaseOV\bin
+cd /d D:\dev\llama.cpp-ov
 
 echo ==========================================
 echo  NPU Bench

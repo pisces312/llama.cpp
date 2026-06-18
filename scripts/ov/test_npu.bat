@@ -5,7 +5,7 @@ REM  前提: build_ov.bat 已成功执行
 REM ============================================================
 setlocal
 
-set "LLAMA_BIN=D:\dev\llama.cpp\build\ReleaseOV\bin"
+set "LLAMA_BIN=D:\dev\llama.cpp-ov"
 set "MODEL_SMALL=D:\dev\ai-models\gguf\qwen2.5-1.5b-instruct-q4_k_m.gguf"
 set "MODEL_8B=D:\dev\ai-models\gguf\Qwen3-8B-Q4_K_M.gguf"
 
